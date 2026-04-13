@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Diaa Ashraf
 
-<!--
-**diaa-ashraf-eng/diaa-ashraf-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm an aspiring Data Engineer with a strong interest in data and technology.
 
-Here are some ideas to get you started:
+- 🎓 Engineering student (ECE)
+- 💻 Skilled in Python & SQL
+- 📊 Interested in Data Analysis & Data Engineering
+- 🚀 Currently building data projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Python
+- SQL
+- Data Analysis
+- Database Design
+
+## 📌 Projects
+### 📊 Sales Analysis Project
+- Built a sales database using MySQL
+- Analyzed data using SQL queries
+- Extracted insights like top customers and best-selling products
+
+## 📫 Connect with me
+- LinkedIn: (https://www.linkedin.com/in/dia2-ashraf?utm_source=share_via&utm_content=profile&utm_medium=member_android)
